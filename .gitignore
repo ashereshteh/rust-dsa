@@ -1,0 +1,12 @@
+# IDEs
+/.idea
+/.vscode
+/.vs
+
+# OS builds
+.DS_Store
+Thumbs.db
+
+
+# Rust builds
+/target
